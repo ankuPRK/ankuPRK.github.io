@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Prakhar Kulshreshtha</title>
-    <link>https://ankuPRK.github.io/authors/</link>
+    <link>https://ankuPRK.github.io/authors.html</link>
     <description>Recent content in Authors on Prakhar Kulshreshtha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,29 @@
     
     
     <item>
+      <title>Prakhar Kulshreshtha</title>
+      <link>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</link>
+      <pubDate>Wed, 03 Oct 2018 04:58:32 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanaya Guha</title>
+      <link>https://ankuPRK.github.io/authors/tanaya-guha.html</link>
+      <pubDate>Wed, 03 Oct 2018 04:58:32 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/authors/tanaya-guha.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>admin</title>
-      <link>https://ankuPRK.github.io/authors/admin/</link>
+      <link>https://ankuPRK.github.io/authors/admin.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ankuPRK.github.io/authors/admin/</guid>
+      <guid>https://ankuPRK.github.io/authors/admin.html</guid>
       <description></description>
     </item>
     

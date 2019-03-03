@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Prakhar Kulshreshtha</title>
-    <link>https://ankuPRK.github.io/publication_types/</link>
+    <link>https://ankuPRK.github.io/publication_types.html</link>
     <description>Recent content in Publication_types on Prakhar Kulshreshtha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 03 Oct 2018 04:58:32 +0530</lastBuildDate>
     
 	<atom:link href="https://ankuPRK.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1</title>
+      <link>https://ankuPRK.github.io/publication_types/1.html</link>
+      <pubDate>Wed, 03 Oct 2018 04:58:32 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/publication_types/1.html</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
