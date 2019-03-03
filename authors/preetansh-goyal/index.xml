@@ -13,10 +13,10 @@
     
     <item>
       <title>Modifying Stacked Attention Networks for VQA</title>
-      <link>https://ankuPRK.github.io/project/modifying-san/</link>
+      <link>https://ankuPRK.github.io/project/modifyingsan/</link>
       <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
       
-      <guid>https://ankuPRK.github.io/project/modifying-san/</guid>
+      <guid>https://ankuPRK.github.io/project/modifyingsan/</guid>
       <description>We modified the architecture of Stacked Attention Network (SANs), which originally utilized image features to project attention on query-vector, for the problem of Image QA, by trying different combinations of attention on image features and query vector. On the dataset we used, the modified models performed on par with the original model proposed in paper.</description>
     </item>
     
