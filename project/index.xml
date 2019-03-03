@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Prakhar Kulshreshtha</title>
+    <link>https://ankuPRK.github.io/project.html</link>
+    <description>Recent content in Projects on Prakhar Kulshreshtha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankuPRK.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Wheat Grain Quality Estimation</title>
+      <link>https://ankuPRK.github.io/project/wheatquality/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/wheatquality/</guid>
+      <description>The project was a collaboration with Govt. of India, aimed to introduce automatic grain quality assessment from an image of spread out sample of grain to assist farmers in getting fair price of their produce. Using binary thresholding for segmentation, followed by an SVM classifier model, we were able to distinguish between grain and impurities with an accuracy of 88%.</description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition in Hindi Speech</title>
+      <link>https://ankuPRK.github.io/project/emotion-recognition/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/emotion-recognition/</guid>
+      <description>In this project, simulated Hindi emotional speech database has been borrowed from a subset of IITKGP-SEHSC dataset(2 out of 10 speakers). Emotional classification is attempted on the corpus using spectral features. The spectral features used are Mel Frequency Cepstral Coefficients(MFCCs) and Subband Spectral Coefficents(SSCs) The feature vector in use has 273 features, obtained from 7 individual features of 13 banks of MFCCs and 26 SSCs computed over the dataset. This dataset is trained on multiple classifiers, wherein with each classifier, related learning and error penalty rate parameters have been varied to find the best set of classifiers.</description>
+    </item>
+    
+    <item>
+      <title>MRI Image Reconstruction from Undersampled K-Space data</title>
+      <link>https://ankuPRK.github.io/project/mri-reconstruction/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/mri-reconstruction/</guid>
+      <description>In this project we explore the paradigm of MRI Reconstruction. MRI scans are collected using Magnetic-Gradient coils, which collect the image data in K-Space domain, which is basically just the Fourier Transform of the original image. Sampling is very time consuming so MR image is reconstructed from undersampled data via Compressed Sensing. We explore Compressed Sensing (CS) in our project. Then we explore different CS-based reconstruction methods, namely, Projection onto Convex Sets (POCS), Non-Linear Conjugate Gradient Descent with BackTracking Line Search (SparseMRI), and Adaptive Dictionary Learning for MRI (DictMRI).</description>
+    </item>
+    
+    <item>
+      <title>Modifying Stacked Attention Networks for VQA</title>
+      <link>https://ankuPRK.github.io/project/modifying-san/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/modifying-san/</guid>
+      <description>We modified the architecture of Stacked Attention Network (SANs), which originally utilized image features to project attention on query-vector, for the problem of Image QA, by trying different combinations of attention on image features and query vector. On the dataset we used, the modified models performed on par with the original model proposed in paper.</description>
+    </item>
+    
+    <item>
+      <title>PET: Pi Enabled Tracking Bot</title>
+      <link>https://ankuPRK.github.io/project/pet/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/pet/</guid>
+      <description>This project was done with Electronics-Club, IIT-Kanpur during Summer&amp;rsquo;14. We made a toy-car bot capable of Surveillance and also with an alternate application in detecting and following a pre specified monocolor object such as ball. The detection and recognition has been done using OpenCV library. The code was written in C++. And this all processing has been done on Raspbian OS on Raspberry Pi. For capturing the images we are using Pi Camera Board.</description>
+    </item>
+    
+  </channel>
+</rss>

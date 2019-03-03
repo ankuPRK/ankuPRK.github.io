@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R N Vishwanath on Prakhar Kulshreshtha</title>
+    <link>https://ankuPRK.github.io/authors/r-n-vishwanath.html</link>
+    <description>Recent content in R N Vishwanath on Prakhar Kulshreshtha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankuPRK.github.io/authors/r-n-vishwanath/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modifying Stacked Attention Networks for VQA</title>
+      <link>https://ankuPRK.github.io/project/modifying-san/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/modifying-san/</guid>
+      <description>We modified the architecture of Stacked Attention Network (SANs), which originally utilized image features to project attention on query-vector, for the problem of Image QA, by trying different combinations of attention on image features and query vector. On the dataset we used, the modified models performed on par with the original model proposed in paper.</description>
+    </item>
+    
+  </channel>
+</rss>

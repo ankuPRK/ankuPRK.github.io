@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satyam Dwivedi on Prakhar Kulshreshtha</title>
+    <link>https://ankuPRK.github.io/authors/satyam-dwivedi.html</link>
+    <description>Recent content in Satyam Dwivedi on Prakhar Kulshreshtha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankuPRK.github.io/authors/satyam-dwivedi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Wheat Grain Quality Estimation</title>
+      <link>https://ankuPRK.github.io/project/wheatquality/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/wheatquality/</guid>
+      <description>The project was a collaboration with Govt. of India, aimed to introduce automatic grain quality assessment from an image of spread out sample of grain to assist farmers in getting fair price of their produce. Using binary thresholding for segmentation, followed by an SVM classifier model, we were able to distinguish between grain and impurities with an accuracy of 88%.</description>
+    </item>
+    
+    <item>
+      <title>MRI Image Reconstruction from Undersampled K-Space data</title>
+      <link>https://ankuPRK.github.io/project/mri-reconstruction/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/mri-reconstruction/</guid>
+      <description>In this project we explore the paradigm of MRI Reconstruction. MRI scans are collected using Magnetic-Gradient coils, which collect the image data in K-Space domain, which is basically just the Fourier Transform of the original image. Sampling is very time consuming so MR image is reconstructed from undersampled data via Compressed Sensing. We explore Compressed Sensing (CS) in our project. Then we explore different CS-based reconstruction methods, namely, Projection onto Convex Sets (POCS), Non-Linear Conjugate Gradient Descent with BackTracking Line Search (SparseMRI), and Adaptive Dictionary Learning for MRI (DictMRI).</description>
+    </item>
+    
+  </channel>
+</rss>

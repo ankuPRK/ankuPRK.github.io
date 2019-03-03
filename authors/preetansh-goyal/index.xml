@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preetansh Goyal on Prakhar Kulshreshtha</title>
+    <link>https://ankuPRK.github.io/authors/preetansh-goyal.html</link>
+    <description>Recent content in Preetansh Goyal on Prakhar Kulshreshtha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankuPRK.github.io/authors/preetansh-goyal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modifying Stacked Attention Networks for VQA</title>
+      <link>https://ankuPRK.github.io/project/modifying-san/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/modifying-san/</guid>
+      <description>We modified the architecture of Stacked Attention Network (SANs), which originally utilized image features to project attention on query-vector, for the problem of Image QA, by trying different combinations of attention on image features and query vector. On the dataset we used, the modified models performed on par with the original model proposed in paper.</description>
+    </item>
+    
+    <item>
+      <title>PET: Pi Enabled Tracking Bot</title>
+      <link>https://ankuPRK.github.io/project/pet/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/pet/</guid>
+      <description>This project was done with Electronics-Club, IIT-Kanpur during Summer&amp;rsquo;14. We made a toy-car bot capable of Surveillance and also with an alternate application in detecting and following a pre specified monocolor object such as ball. The detection and recognition has been done using OpenCV library. The code was written in C++. And this all processing has been done on Raspbian OS on Raspberry Pi. For capturing the images we are using Pi Camera Board.</description>
+    </item>
+    
+  </channel>
+</rss>

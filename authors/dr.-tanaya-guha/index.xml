@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Tanaya Guha on Prakhar Kulshreshtha</title>
+    <link>https://ankuPRK.github.io/authors/dr.-tanaya-guha.html</link>
+    <description>Recent content in Dr. Tanaya Guha on Prakhar Kulshreshtha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankuPRK.github.io/authors/dr.-tanaya-guha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Wheat Grain Quality Estimation</title>
+      <link>https://ankuPRK.github.io/project/wheatquality/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/wheatquality/</guid>
+      <description>The project was a collaboration with Govt. of India, aimed to introduce automatic grain quality assessment from an image of spread out sample of grain to assist farmers in getting fair price of their produce. Using binary thresholding for segmentation, followed by an SVM classifier model, we were able to distinguish between grain and impurities with an accuracy of 88%.</description>
+    </item>
+    
+  </channel>
+</rss>

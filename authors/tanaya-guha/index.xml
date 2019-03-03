@@ -6,10 +6,19 @@
     <description>Recent content in Tanaya Guha on Prakhar Kulshreshtha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 04:58:32 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
     
 	<atom:link href="https://ankuPRK.github.io/authors/tanaya-guha/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MRI Image Reconstruction from Undersampled K-Space data</title>
+      <link>https://ankuPRK.github.io/project/mri-reconstruction/</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/mri-reconstruction/</guid>
+      <description>In this project we explore the paradigm of MRI Reconstruction. MRI scans are collected using Magnetic-Gradient coils, which collect the image data in K-Space domain, which is basically just the Fourier Transform of the original image. Sampling is very time consuming so MR image is reconstructed from undersampled data via Compressed Sensing. We explore Compressed Sensing (CS) in our project. Then we explore different CS-based reconstruction methods, namely, Projection onto Convex Sets (POCS), Non-Linear Conjugate Gradient Descent with BackTracking Line Search (SparseMRI), and Adaptive Dictionary Learning for MRI (DictMRI).</description>
+    </item>
     
     <item>
       <title>An online algorithm for constrained face clustering in videos</title>
