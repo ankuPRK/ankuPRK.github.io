@@ -6,6 +6,7 @@
     <description>Recent content on Prakhar Kulshreshtha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Prakhar Kulshreshtha</copyright>
     <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
     
 	<atom:link href="https://ankuPRK.github.io/authors/prakhar-kulshreshtha/index.xml" rel="self" type="application/rss+xml" />
@@ -59,7 +60,7 @@
     <item>
       <title>An online algorithm for constrained face clustering in videos</title>
       <link>https://ankuPRK.github.io/publication/cofc/</link>
-      <pubDate>Wed, 03 Oct 2018 04:58:32 +0530</pubDate>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ankuPRK.github.io/publication/cofc/</guid>
       <description></description>
