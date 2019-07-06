@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/authors/amit-gupta.html</loc>
+      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/authors/anurendra-kumar.html</loc>
+      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/authors.html</loc>
+      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -12,8 +38,26 @@
     
     <url>
     
+      <loc>https://ankuPRK.github.io/authors/dr.-tanaya-guha.html</loc>
+      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://ankuPRK.github.io/project/emotion-recognition/</loc>
       <lastmod>2019-03-03T21:00:03+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/authors/gaurav-agrawal.html</loc>
+      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -44,91 +88,9 @@
     
     <url>
     
-      <loc>https://ankuPRK.github.io/publication/cofc/</loc>
-      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/author/admin.html</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/authors/amit-gupta.html</loc>
+      <loc>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</loc>
       <lastmod>2019-03-03T21:00:03+05:30</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/authors/anurendra-kumar.html</loc>
-      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/author.html</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/authors.html</loc>
-      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/categories.html</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/detailed_list.html</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/authors/dr.-tanaya-guha.html</loc>
-      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/authors/gaurav-agrawal.html</loc>
-      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/post.html</loc>
     </url>
     
   
@@ -136,15 +98,6 @@
     <url>
     
       <loc>https://ankuPRK.github.io/</loc>
-      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</loc>
       <lastmod>2019-03-03T21:00:03+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -171,24 +124,9 @@
     
     <url>
     
-      <loc>https://ankuPRK.github.io/publication.html</loc>
-      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://ankuPRK.github.io/authors/r-n-vishwanath.html</loc>
       <lastmod>2019-03-03T21:00:03+05:30</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ankuPRK.github.io/talk.html</loc>
     </url>
     
   
@@ -222,7 +160,8 @@
     
     <url>
     
-      <loc>https://ankuPRK.github.io/tags.html</loc>
+      <loc>https://ankuPRK.github.io/authors/tanaya-guha.html</loc>
+      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -230,8 +169,68 @@
     
     <url>
     
-      <loc>https://ankuPRK.github.io/authors/tanaya-guha.html</loc>
-      <lastmod>2019-03-03T21:00:03+05:30</lastmod>
+      <loc>https://ankuPRK.github.io/publication/cofc/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/publication.html</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/author/admin.html</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/author.html</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/categories.html</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/detailed_list.html</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/post.html</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/talk.html</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ankuPRK.github.io/tags.html</loc>
       <priority>0</priority>
     </url>
     
