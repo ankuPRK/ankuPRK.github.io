@@ -7,18 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Prakhar Kulshreshtha</copyright>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ankuPRK.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Annotation-free Quality_Estimation of Food Grains using Deep Neural Network</title>
+      <link>https://ankuPRK.github.io/publication/augrass.html</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankuPRK.github.io/publication/augrass.html</guid>
+      <description>Computer Vision for instance segmentation of food grains for Automatic Assaying using a Smartphone Camera</description>
+    </item>
+    
+    <item>
       <title>An online algorithm for constrained face clustering in videos</title>
-      <link>https://ankuPRK.github.io/publication/cofc/</link>
+      <link>https://ankuPRK.github.io/publication/cofc.html</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ankuPRK.github.io/publication/cofc/</guid>
-      <description></description>
+      <guid>https://ankuPRK.github.io/publication/cofc.html</guid>
+      <description>A shot-wise online face clustering algorithm that uses several spatio-temporal constraints, along with FaceNet features, to obtain a robust representation of the facetracks</description>
     </item>
     
   </channel>

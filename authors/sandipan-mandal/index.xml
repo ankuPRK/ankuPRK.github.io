@@ -14,10 +14,10 @@
     
     <item>
       <title>PET: Pi Enabled Tracking Bot</title>
-      <link>https://ankuPRK.github.io/project/pet/</link>
+      <link>https://ankuPRK.github.io/project/pet.html</link>
       <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
       
-      <guid>https://ankuPRK.github.io/project/pet/</guid>
+      <guid>https://ankuPRK.github.io/project/pet.html</guid>
       <description>This project was done with Electronics-Club, IIT-Kanpur during Summer&amp;rsquo;14. We made a toy-car bot capable of Surveillance and also with an alternate application in detecting and following a pre specified monocolor object such as ball. The detection and recognition has been done using OpenCV library. The code was written in C++. And this all processing has been done on Raspbian OS on Raspberry Pi. For capturing the images we are using Pi Camera Board.</description>
     </item>
     

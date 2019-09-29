@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayush Agrawal* on Prakhar Kulshreshtha</title>
+    <link>https://ankuPRK.github.io/authors/ayush-agrawal.html</link>
+    <description>Recent content in Ayush Agrawal* on Prakhar Kulshreshtha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Prakhar Kulshreshtha</copyright>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ankuPRK.github.io/authors/ayush-agrawal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Annotation-free Quality_Estimation of Food Grains using Deep Neural Network</title>
+      <link>https://ankuPRK.github.io/publication/augrass.html</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankuPRK.github.io/publication/augrass.html</guid>
+      <description>Computer Vision for instance segmentation of food grains for Automatic Assaying using a Smartphone Camera</description>
+    </item>
+    
+  </channel>
+</rss>

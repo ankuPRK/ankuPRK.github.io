@@ -14,10 +14,10 @@
     
     <item>
       <title>Emotion Recognition in Hindi Speech</title>
-      <link>https://ankuPRK.github.io/project/emotion-recognition/</link>
+      <link>https://ankuPRK.github.io/project/emotion-recognition.html</link>
       <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
       
-      <guid>https://ankuPRK.github.io/project/emotion-recognition/</guid>
+      <guid>https://ankuPRK.github.io/project/emotion-recognition.html</guid>
       <description>In this project, simulated Hindi emotional speech database has been borrowed from a subset of IITKGP-SEHSC dataset(2 out of 10 speakers). Emotional classification is attempted on the corpus using spectral features. The spectral features used are Mel Frequency Cepstral Coefficients(MFCCs) and Subband Spectral Coefficents(SSCs) The feature vector in use has 273 features, obtained from 7 individual features of 13 banks of MFCCs and 26 SSCs computed over the dataset. This dataset is trained on multiple classifiers, wherein with each classifier, related learning and error penalty rate parameters have been varied to find the best set of classifiers.</description>
     </item>
     
