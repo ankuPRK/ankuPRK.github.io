@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Prakhar Kulshreshtha</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ankuPRK.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prakhar Kulshreshtha</title>
+      <link>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanaya Guha</title>
+      <link>https://ankuPRK.github.io/authors/tanaya-guha.html</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankuPRK.github.io/authors/tanaya-guha.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Akankshya Kar*</title>
@@ -36,15 +54,6 @@
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ankuPRK.github.io/authors/lokesh-boregowda.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prakhar Kulshreshtha</title>
-      <link>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ankuPRK.github.io/authors/prakhar-kulshreshtha.html</guid>
       <description></description>
     </item>
     
@@ -135,15 +144,6 @@
       <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
       
       <guid>https://ankuPRK.github.io/authors/soumya-gayen.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tanaya Guha</title>
-      <link>https://ankuPRK.github.io/authors/tanaya-guha.html</link>
-      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
-      
-      <guid>https://ankuPRK.github.io/authors/tanaya-guha.html</guid>
       <description></description>
     </item>
     
