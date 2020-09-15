@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anand Bhoraskar on Prakhar Kulshreshtha</title>
+    <link>https://ankuPRK.github.io/authors/anand-bhoraskar.html</link>
+    <description>Recent content in Anand Bhoraskar on Prakhar Kulshreshtha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Prakhar Kulshreshtha</copyright>
+    <lastBuildDate>Sun, 03 Mar 2019 21:00:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankuPRK.github.io/authors/anand-bhoraskar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Long term mapping for SLAM in dynamic environment</title>
+      <link>https://ankuPRK.github.io/project/longtermslam.html</link>
+      <pubDate>Sun, 03 Mar 2019 21:00:03 +0530</pubDate>
+      
+      <guid>https://ankuPRK.github.io/project/longtermslam.html</guid>
+      <description>Long term visual SLAM faces a number of challenges because of environmental changes over time that are caused by objects that move (furniture, equipment), changes in appearance (open drapes, repaint wall), and apparent changes (lighting, seasonal). We would like to investigate map representations that support collections of map features that may vary over time, efficiently store and index, support efficient loop closure and re-localization, and allow for runing. We would also like to investigate approaches to feature/keyframe management to determine if new representation replaces or augments a previous one, when to merge a new map section, and when to prune an old representation.</description>
+    </item>
+    
+  </channel>
+</rss>
